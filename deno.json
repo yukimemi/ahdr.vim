@@ -21,7 +21,7 @@
   },
   "lock": false,
   "imports": {
-    "@std/assert": "jsr:@std/assert@^1.0.17"
+    "@std/assert": "jsr:@std/assert@^1.0.18"
   },
   "workspace": [
     "./denops/ahdr"
