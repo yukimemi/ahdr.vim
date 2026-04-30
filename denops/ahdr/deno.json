@@ -3,7 +3,7 @@
     "@core/unknownutil": "jsr:@core/unknownutil@^4.4.0-pre.1",
     "@denops/std": "jsr:@denops/std@^8.2.0",
     "@denops/test": "jsr:@denops/test@^4.0.0",
-    "@es-toolkit/es-toolkit": "jsr:@es-toolkit/es-toolkit@^1.46.0",
+    "@es-toolkit/es-toolkit": "jsr:@es-toolkit/es-toolkit@^1.46.1",
     "@std/assert": "jsr:@std/assert@^1.0.19",
     "@std/fs": "jsr:@std/fs@^1.0.23",
     "@std/path": "jsr:@std/path@^1.1.4",
